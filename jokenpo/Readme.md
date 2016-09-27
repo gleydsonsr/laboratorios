@@ -52,7 +52,7 @@ funcao jogada_pc
 fim
 ```
 
-Caso você esteja fazendo em C ou C++ vocẽ só precisa chamar a função **srand(time(NULL))** (Esta função irá inicializar  a aleatoriedade) uma única vez no seu código. Normalmente, durante a inicialização das variáveis.
+Caso você esteja fazendo em C ou C++ você só precisa chamar a função **srand(time(NULL))** (Esta função irá inicializar  a aleatoriedade) uma única vez no seu código. Normalmente, durante a inicialização das variáveis.
 
 [Respostas](anexos/anexo1.md)
 
